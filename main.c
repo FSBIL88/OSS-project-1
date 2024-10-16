@@ -1,7 +1,8 @@
 #include<stdio.h>
 
 int main(void){
-  peinrf("Hello world!");
+  printf("Open souce project\n");
+  printf("First Github training\n");
 
 return 0;
 }
